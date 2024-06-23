@@ -2,7 +2,7 @@
 
 ## Materials
 
-# 3.2mm Aluminum
+### 3.2mm Aluminum
 * Back
 * Deck_Left
 * Deck_Right
@@ -10,7 +10,7 @@
 * Side
 * Skirt
 
-# 5.6mm Polycarbonate
+### 5.6mm Polycarbonate
 * Front Door
 * Top
 
