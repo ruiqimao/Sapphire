@@ -7,6 +7,7 @@ Sapphire is a 250x250x230 CoreXY printer primarily featuring components from oth
 * [Monolith gantry](https://github.com/CloakedWayne/Monolith_Gantry_V2-VT)
 * [Archetype toolhead](https://github.com/Armchair-Heavy-Industries/Archetype)
 * [Annex Engineering K3 Z system](https://github.com/Annex-Engineering/Gasherbrum-K3)
+* [Voron Trident bed](https://github.com/VoronDesign/Voron-Trident)
 * 4040/2020 frame members
 * Aluminum structural panels
 * Slide out electronics bay
