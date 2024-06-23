@@ -20,3 +20,4 @@
 * Electronics.dxf contains holes meant to be tapped for PSU and SSR mounting:
   * M3: 2.6mm holes
   * M4: 3.41mm holes
+* Front_Door.dxf requires the holes mounted to the hinges to be countersunk.
