@@ -24,3 +24,33 @@ Sapphire is a 250x250x230 CoreXY printer primarily featuring components from oth
 ## STLs
 
 No STLs are provided. Everything is available from CAD or external repositories.
+
+## Misumi codes
+
+The extrusions and brackets used for the frame, bed, and electronics are:
+
+### Frame
+```
+4x HFS5-4040-550-SC-LCP-RCP-AV360
+9x HFS5-2040-370-TPW-SC
+1x HFS5-2040-370-TPW-SC-AH185
+1x HFS5-2040-330-TPW-SC
+1x HFS5-2020-240-SC
+1x HFS5-2020-370-SC
+```
+
+### Bed
+```
+1x HFS5-2020-340-TPW-SC-AH170
+1x HFS5-2020-255-TPW-SC
+```
+
+### Electronics
+```
+2x HFS5-2020-300
+```
+
+### Corner brackets
+```
+31x HBKUS5
+```
