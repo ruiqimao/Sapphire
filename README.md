@@ -18,4 +18,4 @@ Sapphire is a 250x250x230 CoreXY printer primarily featuring components from oth
 
 * CAD drawings for original design elements are included in [CAD/Base/Base.zip](CAD/Base/Sapphire.zip).
 * Monolith and Archetype components can be found in their respective repositories.
-* Modified version of K3Z can be found in [CAD/Z Components/Z Components.zip](<CAD/Z Components/Z Components.zip>), along a copy of the Annex Engineering license agreement.
+* Modified version of K3Z can be found in [CAD/Z Components/Z Components.zip](<CAD/Z Components/Z Components.zip>), along with a copy of the Annex Engineering license agreement.
