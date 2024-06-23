@@ -1,5 +1,29 @@
 # Sapphire Toolboard
 
-![Render](../Images/Toolboard_Render.png)
+<p float="left">
+  <img src="../Images/Toolboard_Render.png" height="400">
+  <img src="../Images/Toolboard.png" height="400">
+</p>
 
-These are the gerber files for the toohead PCB used for Sapphire. It is clamped between the Sherap Mini and extruder mount on an Archetype toolhead.
+These are the files used to produce and mount the toolhead PCB used in Sapphire.
+
+## Production requirements
+
+* 1.6mm thick
+* 2 layers
+* 1oz minimum (2oz preferred)
+
+## Mounting
+
+The toolboard is clamped between the Sherpa Mini and extruder block, as shown here:
+
+<img src="../Images/Toolboard_Mounting.png" width="500">
+
+## STLs
+
+* K_Face.stl: An altered K-Face for the Sherpa Mini is necessary due to the thickness of the PCB.
+* Strain_Relief.stl: Mounted to the back of the stepper motor to provide strain relief.
+
+## Harness and distribution board
+
+Pinout and harness compatible with [Xol PCB](https://github.com/ruiqimao/VoronStuff/tree/main/Xol_PCB).
