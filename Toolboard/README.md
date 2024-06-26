@@ -1,5 +1,8 @@
 # Sapphire Toolboard
 
+> [!WARNING]
+> Archetype is in beta and is subject to change. Use this toolboard knowing that compatibility may break in the future.
+
 <p float="left">
   <img src="../Images/Toolboard_Render.png" height="400">
   <img src="../Images/Toolboard.png" height="400">
